@@ -1,0 +1,218 @@
+{
+    "default": {
+        "bg": "#1e1e1e",
+        "fg": "#ffffff",
+        "button_bg": "#333333",
+        "button_fg": "#ffffff",
+        "entry_bg": "#2a2a2a",
+        "entry_fg": "#ffffff",
+        "accent": "#00aaff"
+    },
+    "light": {
+        "bg": "#f0f0f0",
+        "fg": "#000000",
+        "button_bg": "#ffffff",
+        "button_fg": "#000000",
+        "entry_bg": "#ffffff",
+        "entry_fg": "#000000",
+        "accent": "#007acc"
+    },
+    "dark": {
+        "bg": "#121212",
+        "fg": "#e0e0e0",
+        "button_bg": "#1f1f1f",
+        "button_fg": "#e0e0e0",
+        "entry_bg": "#1a1a1a",
+        "entry_fg": "#e0e0e0",
+        "accent": "#bb86fc"
+    },
+    "solarized": {
+        "bg": "#002b36",
+        "fg": "#839496",
+        "button_bg": "#073642",
+        "button_fg": "#839496",
+        "entry_bg": "#073642",
+        "entry_fg": "#839496",
+        "accent": "#268bd2"
+    },
+    "high_contrast": {
+        "bg": "#000000",
+        "fg": "#ffffff",
+        "button_bg": "#ffffff",
+        "button_fg": "#000000",
+        "entry_bg": "#000000",
+        "entry_fg": "#ffffff",
+        "accent": "#ff00ff"
+    },
+    "pastel": {
+        "bg": "#fffbf0",
+        "fg": "#5a5a5a",
+        "button_bg": "#ffd1dc",
+        "button_fg": "#5a5a5a",
+        "entry_bg": "#fff0f5",
+        "entry_fg": "#5a5a5a",
+        "accent": "#ffb6c1"
+    },
+    "monochrome": {
+        "bg": "#ffffff",
+        "fg": "#000000",
+        "button_bg": "#cccccc",
+        "button_fg": "#000000",
+        "entry_bg": "#f0f0f0",
+        "entry_fg": "#000000",
+        "accent": "#666666"
+    },
+    "neon": {
+        "bg": "#0f0f0f",
+        "fg": "#39ff14",
+        "button_bg": "#1a1a1a",
+        "button_fg": "#39ff14",
+        "entry_bg": "#1a1a1a",
+        "entry_fg": "#39ff14",
+        "accent": "#ff073a"
+    },
+    "vintage": {
+        "bg": "#f5f0e6",
+        "fg": "#4b3b2b",
+        "button_bg": "#d7c4a3",
+        "button_fg": "#4b3b2b",
+        "entry_bg": "#e8d8c3",
+        "entry_fg": "#4b3b2b",
+        "accent": "#a67c52"
+    },
+    "cyberpunk": {
+        "bg": "#0d0d0d",
+        "fg": "#ff00ff",
+        "button_bg": "#1a1a1a",
+        "button_fg": "#ff00ff",
+        "entry_bg": "#1a1a1a",
+        "entry_fg": "#ff00ff",
+        "accent": "#00ffff"
+    },
+    "nature": {
+        "bg": "#e6f2e6",
+        "fg": "#2e4d2e",
+        "button_bg": "#a3cfa3",
+        "button_fg": "#2e4d2e",
+        "entry_bg": "#d0e6d0",
+        "entry_fg": "#2e4d2e",
+        "accent": "#4caf50"
+    },
+    "retro": {
+        "bg": "#f4f1e0",
+        "fg": "#3b2f2f",
+        "button_bg": "#c9b99a",
+        "button_fg": "#3b2f2f",
+        "entry_bg": "#e6d8b7",
+        "entry_fg": "#3b2f2f",
+        "accent": "#d2691e"
+    },
+    "minimalist": {
+        "bg": "#ffffff",
+        "fg": "#333333",
+        "button_bg": "#f5f5f5",
+        "button_fg": "#333333",
+        "entry_bg": "#f9f9f9",
+        "entry_fg": "#333333",
+        "accent": "#888888"
+    },
+    "funky": {
+        "bg": "#ffefd5",
+        "fg": "#4b0082",
+        "button_bg": "#ff69b4",
+        "button_fg": "#4b0082",
+        "entry_bg": "#ffe4e1",
+        "entry_fg": "#4b0082",
+        "accent": "#8a2be2"
+    },
+    "elegant": {
+        "bg": "#2c2c2c",
+        "fg": "#dcdcdc",
+        "button_bg": "#444444",
+        "button_fg": "#dcdcdc",
+        "entry_bg": "#3a3a3a",
+        "entry_fg": "#dcdcdc",
+        "accent": "#c0c0c0"
+    },
+    "playful": {
+        "bg": "#fff8dc",
+        "fg": "#ff4500",
+        "button_bg": "#ffdab9",
+        "button_fg": "#ff4500",
+        "entry_bg": "#ffe4b5",
+        "entry_fg": "#ff4500",
+        "accent": "#ffa500"
+    },
+    "professional": {
+        "bg": "#f7f7f7",
+        "fg": "#2f4f4f",
+        "button_bg": "#d3d3d3",
+        "button_fg": "#2f4f4f",
+        "entry_bg": "#e8e8e8",
+        "entry_fg": "#2f4f4f",
+        "accent": "#4682b4"
+    },
+    "futuristic": {
+        "bg": "#0a0a0a",
+        "fg": "#00ffcc",
+        "button_bg": "#1a1a1a",
+        "button_fg": "#00ffcc",
+        "entry_bg": "#1a1a1a",
+        "entry_fg": "#00ffcc",
+        "accent": "#ff00ff"
+    },
+    "cozy": {
+        "bg": "#fff5e1",
+        "fg": "#6b4226",
+        "button_bg": "#f4c2c2",
+        "button_fg": "#6b4226",
+        "entry_bg": "#ffe4c4",
+        "entry_fg": "#6b4226",
+        "accent": "#d2691e"
+    },
+    "techno": {
+        "bg": "#121212",
+        "fg": "#00ff00",
+        "button_bg": "#1a1a1a",
+        "button_fg": "#00ff00",
+        "entry_bg": "#1a1a1a",
+        "entry_fg": "#00ff00",
+        "accent": "#ff0000"
+    },
+    "whimsical": {
+        "bg": "#fff0f5",
+        "fg": "#ff69b4",
+        "button_bg": "#ffb6c1",
+        "button_fg": "#ff69b4",
+        "entry_bg": "#ffe4e1",
+        "entry_fg": "#ff69b4",
+        "accent": "#ff1493"
+    },
+    "urban": {
+        "bg": "#2f2f2f",
+        "fg": "#d3d3d3",
+        "button_bg": "#4a4a4a",
+        "button_fg": "#d3d3d3",
+        "entry_bg": "#3a3a3a",
+        "entry_fg": "#d3d3d3",
+        "accent": "#808080"
+    },
+    "serene": {
+        "bg": "#e0f7fa",
+        "fg": "#006064",
+        "button_bg": "#b2ebf2",
+        "button_fg": "#006064",
+        "entry_bg": "#b2ebf2",
+        "entry_fg": "#006064",
+        "accent": "#00acc1"
+    },
+    "dramatic": {
+        "bg": "#1b1b1b",
+        "fg": "#ff4500",
+        "button_bg": "#2e2e2e",
+        "button_fg": "#ff4500",
+        "entry_bg": "#2e2e2e",
+        "entry_fg": "#ff4500",
+        "accent": "#ff6347"
+    }
+}
