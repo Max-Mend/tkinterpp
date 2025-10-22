@@ -1,2 +1,2 @@
 # tkinterpp
-#open-sourse #tkinter #python #libery
+Tkinterpp - customization over regular tkinter, adds many themes and animations
